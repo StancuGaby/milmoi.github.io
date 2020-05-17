@@ -1,2 +1,4 @@
 sudo apt-get update
-sudo apt install openjdk-8-jdk -y
+apt install default-jre
+apt install openjdk-11-jre-headless
+apt install openjdk-8-jre-headless
