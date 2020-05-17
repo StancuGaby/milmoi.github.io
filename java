@@ -1,2 +1,2 @@
 sudo apt-get update
-sudo apt install openjdk-8-jre-headless
+sudo apt install openjdk-8-jdk -y
