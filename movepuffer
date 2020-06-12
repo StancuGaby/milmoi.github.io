@@ -1,0 +1,5 @@
+sudo chmod -R 777 /var/lib/pufferpanel
+sudo chmod -R 777 /etc/pufferpanel
+sudo chmod -R 777 /var/logs/pufferpanel
+sudo chmod -R 777 /var/www/html/
+sudo chmod -R 777 /var/www/pufferpanel
